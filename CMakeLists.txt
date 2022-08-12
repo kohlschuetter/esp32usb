@@ -25,7 +25,6 @@ SRCS
     "${COMPONENT_DIR}/src/tinyusb/src/portable/espressif/esp32sx/dcd_esp32sx.c"
     "${COMPONENT_DIR}/src/tinyusb/src/host/hub.c"
     "${COMPONENT_DIR}/src/tinyusb/src/host/usbh.c"
-    "${COMPONENT_DIR}/src/tinyusb/src/host/usbh_control.c"
     "${COMPONENT_DIR}/src/usb.cpp"
     "${COMPONENT_DIR}/src/usb_cdc.cpp"
     "${COMPONENT_DIR}/src/usb_hid.cpp"
